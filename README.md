@@ -17,10 +17,10 @@ I'm looking for ML and AI engineering, data science and quant research roles in 
 
 ## Tech
 
-**Languages:** Python, C++, SQL, JavaScript
-**ML:** PyTorch, TensorFlow, scikit-learn, NumPy, pandas
-**Data and cloud:** PySpark, GCP, Docker, Terraform, Git
-**Methods:** deep reinforcement learning, CNNs, LSTMs, physics-informed neural networks, time series (ARIMA, GARCH), Bayesian inference
+- **Languages:** Python, C++, SQL, JavaScript
+- **ML:** PyTorch, TensorFlow, scikit-learn, NumPy, pandas
+- **Data and cloud:** PySpark, GCP, Docker, Terraform, Git
+- **Methods:** deep reinforcement learning, CNNs, LSTMs, physics-informed neural networks, time series (ARIMA, GARCH), Bayesian inference
 
 ## Contact
 
