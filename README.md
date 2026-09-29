@@ -2,7 +2,7 @@
 
 I've just finished an MSc in Artificial Intelligence and Machine Learning at Queen Mary University of London, after a First-Class BSc in Computer Science at the University of Portsmouth. I build machine learning systems end to end, from data pipelines to trained models and deployment.
 
-My work spans deep learning, reinforcement learning, time series and physics-informed neural networks, applied to medical imaging, finance and space science. The pinned repositories below show some of it.
+My work spans deep learning, reinforcement learning, time series and physics-informed neural networks, applied to medical imaging, finance and space science.
 
 I'm looking for ML and AI engineering, data science and quant research roles in London.
 
